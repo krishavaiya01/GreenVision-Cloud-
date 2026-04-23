@@ -14,7 +14,11 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@aws-sdk/client-cloudwatch": "^3.1035.0",
     "@aws-sdk/client-cloudwatch-logs": "^3.657.0",
+    "@aws-sdk/client-ec2": "^3.1035.0",
+    "@aws-sdk/client-iam": "^3.1035.0",
+    "@aws-sdk/client-s3": "^3.1035.0",
     "@azure/arm-appservice": "^14.0.0",
     "@azure/arm-consumption": "^9.2.0",
     "@azure/arm-resources": "^6.0.0",
