@@ -11,7 +11,7 @@
 
 *An intelligent, multi-cloud dashboard designed to monitor resource usage, track carbon emissions, and provide AI-driven rightsizing recommendations.*
 
-[**Explore the Live Demo**]([(add-your-vercel-link-here)](https://green-vision-cloud.vercel.app/)) 
+[**Explore the Live Demo**](https://green-vision-cloud.vercel.app/) 
 
 </div>
 
