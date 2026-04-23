@@ -13,7 +13,7 @@ import {
   LinearProgress,
   Button,
 } from "@mui/material";
-import DashboardLayout from "../../components/common/layout/DashboardLayout";
+import DashboardLayout from "../../components/common/Layout/DashboardLayout";
 import { notificationApi } from "../../services/api/notificationApi";
 import { toast } from "react-hot-toast";
 

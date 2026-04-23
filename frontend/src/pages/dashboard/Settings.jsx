@@ -11,7 +11,7 @@ import {
   Button,
   TextField,
 } from "@mui/material";
-import DashboardLayout from "../../components/common/layout/DashboardLayout";
+import DashboardLayout from "../../components/common/Layout/DashboardLayout";
 import { useTheme } from "../../hooks/useTheme";
 import axios from "axios";
 import { authApi } from "../../services/api/authApi";
