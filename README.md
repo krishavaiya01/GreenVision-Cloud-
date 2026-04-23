@@ -117,6 +117,6 @@ GreenVision-Cloud is fully production-ready and optimized for Cloud PaaS.
 ---
 
 <div align="center">
-  <p><b>Built with ❤️ by Krish Vaiya</b></p>
+  <p><b>Built with ❤️ by Krishkumar Avaiya</b></p>
   <i>Empowering sustainable cloud computing for a greener tomorrow.</i>
 </div>
