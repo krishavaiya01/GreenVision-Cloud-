@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
 import { Toaster } from "react-hot-toast";
+import { Analytics as VercelAnalytics } from "@vercel/analytics/react";
 import { AuthProvider } from "./context/AuthContext";
 import { ThemeProviderWrapper, useThemeContext } from "./context/ThemeContext";
 import ProtectedRoute from "./components/common/ProtectedRoute";
@@ -185,6 +186,9 @@ function AppContent() {
           error: { style: { background: "#f44336" } },
         }}
       />
+
+      {/* Vercel Web Analytics */}
+      <VercelAnalytics />
     </>
   );
 }
